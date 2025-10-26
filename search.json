@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "WS 25/26 Spanish A1 notes",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
+    "text": "Preface\nWS 25/26 Spanish A1 Notes",
     "crumbs": [
       "Preface"
     ]
@@ -12,31 +12,51 @@
   {
     "objectID": "intro.html",
     "href": "intro.html",
-    "title": "1  Introduction",
+    "title": "1  Intro",
     "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "text": "1.1 Introducing Yourself",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Intro</span>"
     ]
   },
   {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": "2  Summary",
+    "objectID": "intro.html#introducing-yourself",
+    "href": "intro.html#introducing-yourself",
+    "title": "1  Intro",
     "section": "",
-    "text": "In summary, this book has no content whatsoever.",
+    "text": "Casual:\n\n¡Hola! Me llamo Igor. Y tu, Cómo te llamas?\nHola, yo me llamo Guillermo.\nHola, Guillermo, ¿qué tal?\n\nFormal:\n\n¡Hola, buenos días! Soy Joaquín Diaz. Y usted, ¿cómo se llama?\nCarmen. Carmen Jiménez.\nHola. ¡Mucho gusto!\n¡Encantada!",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Intro</span>"
     ]
   },
   {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
-    "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "objectID": "intro.html#greetings-and-farewells",
+    "href": "intro.html#greetings-and-farewells",
+    "title": "1  Intro",
+    "section": "1.2 Greetings and Farewells",
+    "text": "1.2 Greetings and Farewells\n\nSaludos (Greetings):\n\n¡Hola! ¿Que tal?\n¡Buenas Tardes!\n¡Buenas Dias! ¿Como estas?\n¡Buenas!\n¡Hóla a todos!\n\nDespedidas:\n\n¡Hasta luego!\n¡Chao!\n¡Hasta mañana!\n¡Hasta la semana próxima!\n¡Buen fin de semana!\n¡Buenas noches!\n¡Hasta pronto!\n¡Hasta la proxima!\n¡Hasta otra!\n\n¡Hasta la vista!",
     "crumbs": [
-      "References"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Intro</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#pronunciation-spelling",
+    "href": "intro.html#pronunciation-spelling",
+    "title": "1  Intro",
+    "section": "1.3 Pronunciation & Spelling",
+    "text": "1.3 Pronunciation & Spelling\n\nB/V:\n\nBarcelona\nCuba\nBolivia\nViena\n\nG/Gu:\n\nGalicia\nTarragona\nGuatemala\nMiguel\nguipúzcoa\nGue, gui = ge / gi\n\nH: Honduras, Huesca (initial H is not pronounced)\nG/J: G before E and I, and J are pronounced as the h\n\nGerona\nGijón\nJapón\nJerez\nTrujillo\n\nC/Qu: c and q before a, o, u are pronounced as k. u after q is not pronounced\n\ncanada\nCosta Rica\nQuito (kito)\nQuebec (kebek)\n\nC/Z: c before e and i pronounced as th. Z before A, U, and O or at the end is pronounced as th\n\nCáceres\nFrancia\nSuiza\nZúrich\nla paz",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Intro</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#pronouns",
+    "href": "intro.html#pronouns",
+    "title": "1  Intro",
+    "section": "1.4 Pronouns",
+    "text": "1.4 Pronouns\n\nyo: I, self\ntú: you\nél: he\nella: she\nusted: polite you\nustedes: polite they\nnosotros/as: we\nvosotros/as: you plural\nellos/as: they\n\n\ndeclinations:\n\nYo me llamo\nTú te llamas\nÉl/ella/usted se llama\nNosotros/as nos llamamos\nVosotros/as os llamáis\nEllos/ellas/ustedes se llaman\n\nexample:\n\nYo me llamo Alejandro\nElla se llama Marta\nTú te llamas Ana\nEllos se llaman Vicente y Miriam\nVosotras os llamáis Alba y Martina\nUstedes …\nUsted …\nNosotros nos llamamos Adrían y Mateo",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Intro</span>"
     ]
   }
 ]
