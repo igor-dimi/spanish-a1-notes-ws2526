@@ -1,5 +1,98 @@
-# Introduction
+#  Intro
 
-This is a book created from markdown and executable code.
+## Introducing Yourself
 
-See @knuth84 for additional discussion of literate programming.
+
+* Casual:
+    * ¡Hola! Me llamo Igor. Y tu, Cómo te llamas?
+    * Hola, yo me llamo Guillermo.
+    * Hola, Guillermo, ¿qué tal?
+* Formal:
+  * ¡Hola, buenos días! Soy Joaquín Diaz. Y usted, ¿cómo se llama?
+  * Carmen. Carmen Jiménez.
+  * Hola. ¡Mucho gusto!
+  * ¡Encantada!
+
+## Greetings and Farewells
+
+* Saludos (Greetings):
+  * ¡Hola! ¿Que tal?
+  * ¡Buenas Tardes!
+  * ¡Buenas Dias! ¿Como estas?
+  * ¡Buenas!
+  * ¡Hóla a todos!
+* Despedidas:
+  * ¡Hasta luego!
+  * ¡Chao!
+  * ¡Hasta mañana!
+  * ¡Hasta la semana próxima!
+  * ¡Buen fin de semana!
+  * ¡Buenas noches!
+  * ¡Hasta pronto!
+  * ¡Hasta la proxima!
+  * ¡Hasta otra!
+    * ¡Hasta la vista!
+
+## Pronunciation & Spelling
+
+* B/V: 
+  * Barcelona
+  * Cuba
+  * Bolivia
+  * Viena
+* G/Gu:
+  * Galicia
+  * Tarragona
+  * Guatemala
+  * Miguel
+  * guipúzcoa
+  * Gue, gui = ge / gi
+* H: Honduras, Huesca (initial H is not pronounced)
+* G/J: G before E and I, and J are pronounced as the h
+  * Gerona
+  * Gijón
+  * Japón
+  * Jerez
+  * Trujillo
+* C/Qu: c and q before a, o, u are pronounced as k. **u** after **q** is not pronounced
+  * canada
+  * Costa Rica
+  * Quito (kito)
+  * Quebec (kebek)
+* C/Z: c before e and i pronounced as th. Z before A, U, and O or at the end is pronounced as th
+  * Cáceres
+  * Francia
+  * Suiza
+  * Zúrich
+  * la paz
+
+
+## Pronouns
+
+1. yo: I, self
+2. tú: you
+3. él: he
+4. ella: she
+5. usted: polite you
+6. ustedes: polite they
+7. nosotros/as: we
+8. vosotros/as: you plural
+9. ellos/as: they
+
+* declinations:
+  * Yo me llam**o**
+  * Tú te llamas
+  * Él/ella/usted se llama
+  * Nosotros/as nos llamamos
+  * Vosotros/as os llamáis
+  * Ellos/ellas/ustedes se llaman
+
+* example:
+  * Yo me llamo Alejandro
+  * Ella se llama Marta
+  * Tú te llamas Ana
+  * Ellos se llaman Vicente y Miriam
+  * Vosotras os llamáis Alba y Martina
+  * Ustedes ...
+  * Usted ...
+  * Nosotros nos llamamos Adrían y Mateo
